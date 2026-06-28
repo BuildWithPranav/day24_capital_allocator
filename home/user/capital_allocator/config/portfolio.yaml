@@ -1,0 +1,28 @@
+assets:
+  - name: AgencyCo
+    industry: digital_agency
+    customers: 500
+    arr_usd: 1800000
+    distribution_channels:
+      - agency_retainers
+      - email_list
+      - shopify_partner
+    notes: "500 SMB e-commerce clients, Shopify focused. Perfect cross-sell for Shopify apps."
+
+  - name: SaaSToolkit
+    industry: saas
+    customers: 2400
+    arr_usd: 420000
+    distribution_channels:
+      - product_led
+      - app_marketplace
+    notes: "B2B SaaS, low churn"
+
+  - name: ContentNetwork
+    industry: media
+    customers: 0
+    arr_usd: 120000
+    distribution_channels:
+      - seo
+      - newsletter_85000
+    notes: "85k newsletter subs, distribution asset"
